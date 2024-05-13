@@ -7,4 +7,3 @@ int main (){
     printf("Inicio de historial medico");
     getch();
     return 0;
-}
